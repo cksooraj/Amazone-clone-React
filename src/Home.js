@@ -13,14 +13,14 @@ function Home() {
         <div className="home_row">
         <Product
         id="12321341"
-        titile="SSapiens: A Brief History of Humankinds"
+        title="SSapiens: A Brief History of Humankinds"
         price={700}
         rating={5}
         image="https://images-na.ssl-images-amazon.com/images/I/41yu2qXhXXL._SX324_BO1,204,203,200_.jpg"
         />
         <Product
         id="12341341"
-        titile="OnePlus 8 (Glacial Green 6GB RAM+128GB Storage)"
+        title="OnePlus 8 (Glacial Green 6GB RAM+128GB Storage)"
         price={3700}
         rating={5}
         image="https://images-na.ssl-images-amazon.com/images/I/619iTNHSCGL._SL1500_.jpg"
@@ -30,33 +30,33 @@ function Home() {
         <div className="home_row">
         <Product
         id="1232341"
-        titile="
+        title="
         Roll over image to zoom in
-        JBL Flip 3 Stealth Waterproof Portable Bluetooth Speaker with Rich Deep Bass (Black), Without Mic"
+        JBL Flip 3 Stealth Waterproof Portable Bluetooth Speaker "
         price={300}
         rating={4}
         image="https://images-na.ssl-images-amazon.com/images/I/81DRhqE04BL._SL1500_.jpg"
         />
         <Product
         id="12321341"
-        titile="HONOR Magic Watch 2 (46mm, Charcoal Black) 14-Days Battery, SpO2, BT Calling & Music Playback, AMOLED Touch Screen, Personalized Watch Faces, 15 Workout Modes, Sleep & HR Monitor, Smart Assistant"
+        title="HONOR Magic Watch 2 "
         price={200}
         rating={4}
         image="https://images-na.ssl-images-amazon.com/images/I/81nzfMLOgaL._SL1500_.jpg"
         />
         <Product
         id="12321341"
-        titile="SSapiens: A Brief History of Humankinds"
+        title="ASUS ROG Strix G17 17.3" 
         price={700}
-        rating={5}
-        image="https://images-na.ssl-images-amazon.com/images/I/41yu2qXhXXL._SX324_BO1,204,203,200_.jpg"
+        rating={4}
+        image="https://images-na.ssl-images-amazon.com/images/I/81Ha%2BSI%2BQML._SL1500_.jpg"
         />
         </div>
 
         <div className="home_row">
         <Product
         id="12321341"
-        titile="Samsung 138 cm (55 Inches) Wondertainment Series Ultra HD LED Smart TV UA55TUE60AKXXL (Titan Gray) (2020 model)"
+        title="Samsung 138 cm (55 Inches) Wondertainment Series Ultra HD LED Smart TV UA55TUE60AKXXL (Titan Gray) (2020 model)"
         price={700}
         rating={5}
         image="https://images-na.ssl-images-amazon.com/images/I/81a5%2BITwX4L._SL1500_.jpg"
